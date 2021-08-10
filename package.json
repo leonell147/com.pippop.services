@@ -1,0 +1,18 @@
+{
+  "name": "com.pippop.services",
+  "version": "1.0.0",
+  "displayName": "Services",
+  "description": "",
+  "unity": "2019.1",
+  "documentationUrl": "https://docs.google.com/document/d/1XY0Z7z2wGxAfjV47S_a-0cF3s9dfeUS6v9TGA2v5mTg",
+  "keywords": [
+    "services",
+    "login",
+    "datamanager"
+  ],
+  "author": {
+    "name": "Leonel Benavidez",
+    "email": "leo.benavidez97@hotmail.com",
+    "url": "https://www.pippopstudios.com/"
+  }
+}
